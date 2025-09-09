@@ -96,5 +96,5 @@ setInterval(() => {
 
 // Start server
 app.listen(PORT, () => {
-  console.log(`Server running on (change this on the laste like)`);
+  console.log(`Server running`);
 });
